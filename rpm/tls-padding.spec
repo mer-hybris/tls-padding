@@ -10,7 +10,7 @@ Source0:    %{name}-%{version}.tar.gz
 Doesn't do anything but reserve some TLS spaces.
 
 %prep
-# we have no source, so nothing here
+%setup -q
 
 %build
 make
