@@ -1,0 +1,3 @@
+[submodule "tls-padding"]
+	path = tls-padding
+	url = https://github.com/sailfishos-mirror/tls-padding.git
